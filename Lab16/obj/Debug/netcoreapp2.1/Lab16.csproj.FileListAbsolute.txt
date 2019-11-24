@@ -1,0 +1,11 @@
+E:\Danil\university\OOTPIST\Lab16\Lab16\bin\Debug\netcoreapp2.1\Lab16.deps.json
+E:\Danil\university\OOTPIST\Lab16\Lab16\bin\Debug\netcoreapp2.1\Lab16.runtimeconfig.json
+E:\Danil\university\OOTPIST\Lab16\Lab16\bin\Debug\netcoreapp2.1\Lab16.runtimeconfig.dev.json
+E:\Danil\university\OOTPIST\Lab16\Lab16\bin\Debug\netcoreapp2.1\Lab16.dll
+E:\Danil\university\OOTPIST\Lab16\Lab16\bin\Debug\netcoreapp2.1\Lab16.pdb
+E:\Danil\university\OOTPIST\Lab16\Lab16\obj\Debug\netcoreapp2.1\Lab16.csprojAssemblyReference.cache
+E:\Danil\university\OOTPIST\Lab16\Lab16\obj\Debug\netcoreapp2.1\Lab16.csproj.CoreCompileInputs.cache
+E:\Danil\university\OOTPIST\Lab16\Lab16\obj\Debug\netcoreapp2.1\Lab16.AssemblyInfoInputs.cache
+E:\Danil\university\OOTPIST\Lab16\Lab16\obj\Debug\netcoreapp2.1\Lab16.AssemblyInfo.cs
+E:\Danil\university\OOTPIST\Lab16\Lab16\obj\Debug\netcoreapp2.1\Lab16.dll
+E:\Danil\university\OOTPIST\Lab16\Lab16\obj\Debug\netcoreapp2.1\Lab16.pdb
